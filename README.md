@@ -1,5 +1,5 @@
 # README
-The PyTorch implementation for MAM
+The PyTorch implementation for $P^2MAM$
 
 ## Environments
 
